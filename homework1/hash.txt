@@ -1,0 +1,2 @@
+salt('Vasily Chetvertukhin')
+'7c3a45397d9b4bc3'
